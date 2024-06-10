@@ -36,15 +36,16 @@ aplicacion-dibujo-electron/
 ## Estructura del Proyecto
 
 
+aplicacion-dibujo-electron/
 │
-├── node_modules/         # Dependencias del proyecto
-├── src/                  # Archivos fuente de la aplicación
-│   ├── index.html        # Archivo HTML principal
-│   ├── index.js          # Lógica principal de Electron
-│   └── renderer.js       # Lógica de dibujo en lienzo
-├── .gitignore            # Archivos ignorados por Git
-├── package.json          # Configuración del proyecto y dependencias
-└── README.md             # Documentación del proyecto (este archivo)
+├── node_modules/ # Dependencias del proyecto
+├── src/ # Archivos fuente de la aplicación
+│ ├── index.html # Archivo HTML principal
+│ ├── index.js # Lógica principal de Electron
+│ └── renderer.js # Lógica de dibujo en lienzo
+├── .gitignore # Archivos ignorados por Git
+├── package.json # Configuración del proyecto y dependencias
+└── README.md # Documentación del proyecto (este archivo)
 Contribución
 Las contribuciones son bienvenidas. Si deseas mejorar esta aplicación, por favor sigue estos pasos:
 
