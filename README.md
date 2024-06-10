@@ -33,6 +33,9 @@ Estructura del Proyecto
 bash
 Copiar código
 aplicacion-dibujo-electron/
+## Estructura del Proyecto
+
+
 │
 ├── node_modules/         # Dependencias del proyecto
 ├── src/                  # Archivos fuente de la aplicación
